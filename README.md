@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrmack/Notebooks/master)
+mybinder.org:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrmack/Notebooks/master)
+
+notebooks.gesis.org:  [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/wrmack/Notebooks/master)
 
 or [Google Colab](https://colab.research.google.com)
 
@@ -12,3 +14,5 @@ Binder:
 Google Colab:    
 - Google Colab will save to Google Drive.
 
+Github:
+- Click on a file and Github will render it read-only
