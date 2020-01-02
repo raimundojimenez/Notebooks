@@ -1,2 +1,5 @@
 Pipfile.lock
 Pipfile
+.venv
+.vscode
+installnotes.md

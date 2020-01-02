@@ -1,0 +1,16 @@
+caesar : {n} ([8], String n) -> String n
+caesar (s, msg) = [ shift x | x <- msg ] 
+    where map = ['A' .. 'Z'] <<< s
+        shift c = map @ (c - 'A')
+
+/* Exercise 2.7 */
+cycle : {n, a} (fin n, n >= 1) => [n]a -> [inf]a
+
+/*
+Cycle is a function which is parametised over n and a which takes a 
+sequence of size n and any type a and delivers a sequence of infinite
+size and any type.  The constraints on n are that n is finite and
+greater than or equal to 1.
+*/
+
+

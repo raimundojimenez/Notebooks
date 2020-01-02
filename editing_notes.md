@@ -1,4 +1,4 @@
-# Notes
+# Editing notes
 
 For maths and symbols in markdown see:    
 [W3 schools](https://www.w3schools.com/charsets/ref_utf_diacritical.asp)    
@@ -8,4 +8,6 @@ For maths and symbols in markdown see:
 [Entity codes](https://sites.psu.edu/symbolcodes/codehtml/#math)    
 [Greek symbols](https://www.keynotesupport.com/internet/special-characters-greek-letters-symbols.shtml)    
 
-Once have preview of symbol from html entity can copy and paste the rendered symbol without using entity tag.
+Once you have a preview of a symbol by using an html entity you can then simply copy and paste the rendered symbol without continuing to use the entity tag.
+
+
