@@ -10,4 +10,7 @@ For maths and symbols in markdown see:
 
 Once you have a preview of a symbol by using an html entity you can then simply copy and paste the rendered symbol without continuing to use the entity tag.
 
+Jupyter notebooks are [MathJax aware](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html#)
 
+When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$

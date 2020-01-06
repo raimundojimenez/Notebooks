@@ -10,4 +10,17 @@ For maths and symbols in markdown see:
 
 Once you have a preview of a symbol by using an html entity you can then simply copy and paste the rendered symbol without continuing to use the entity tag.
 
+Jupyter notebooks are [MathJax aware](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html#)
 
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+Another example
+
+\begin{equation*}
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\end{equation*}
+
+Tex documentation:    
+[Wikibook](https://en.wikibooks.org/wiki/LaTeX)  [Command glossary](https://en.wikibooks.org/wiki/LaTeX/Command_Glossary)    
+Other [documentation](http://mirror.aut.ac.nz/CTAN/info/latex-doc-ptr/latex-doc-ptr.pdf)
