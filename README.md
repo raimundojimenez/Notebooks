@@ -1,4 +1,4 @@
-# Personal notes on cryptogrpahy  
+# Personal notes on cryptography  
 
 ## How to view
 
