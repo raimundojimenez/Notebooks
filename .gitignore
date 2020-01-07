@@ -2,4 +2,5 @@ Pipfile.lock
 Pipfile
 .venv
 .vscode
+.ipynb_checkpoints/
 installnotes.md
